@@ -27,7 +27,7 @@
 - references/similarity.md：多文档查重及量化口径。
 - references/evaluation.md：评标视角分析规则。
 - references/revision.md：最小修改、版本闭环和终稿核验。
-- assets/icon.svg：展示图标（如当前导出版本包含）。
+- assets/icon.svg：技能展示图标。
 
 ## 使用与安装
 
