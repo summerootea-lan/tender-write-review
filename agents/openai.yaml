@@ -1,0 +1,13 @@
+interface:
+  display_name: 技术标编写与评审
+  short_description: 覆盖要求拆解、目录规划、正文编写、审核查重、评标分析与终稿复核
+  default_prompt: 使用 $tender-write-review，根据本项目招标要求和附件，完成指定的技术标编写或评审任务。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
